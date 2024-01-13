@@ -4,10 +4,9 @@
 <a href="https://explore.whiteribbonalliance.org/en/healthwellbeing"><span align="left">🌐 explore.whiteribbonalliance.org/en/healthwellbeing</span></a>
 
 
-•	Training Code: If you want to train the model yourself, you can easily do so. The training code is available as a Jupyter notebook, which you can run in Google Colab with a single click:
+•	**Training Code:** If you want to train the model yourself, you can easily do so. The training code is available as a Jupyter notebook, which you can run in Google Colab with a single click. Additionally, the training data used for the model can be found here: Training Data.
 <a href="https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/multi_label_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-•	Inference Code: If you have survey data in CSV or Excel format and would like to classify them, our NLU tool is at your service for efficient classification. Run the inference code as a Jupyter notebook in Google Colab with just one click:
+•	**Inference Code:** If you have survey data in CSV or Excel format and would like to classify them, our NLU can be helpful for the efficient classification. Run the inference code as a Jupyter notebook in Google Colab with just one click. The model used for inference is the multi-label fine-tuned BERT model, which can be found at amoldwalunj/BERT_multi_label_classification_survey_repose_classification on Hugging Face.
 <a href="https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/Inference_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
