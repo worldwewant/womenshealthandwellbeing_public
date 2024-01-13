@@ -11,12 +11,10 @@ If you have survey data in CSV or Excel format and would like to classify them, 
 
 <a href="https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/Inference_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Training Code: If you want to train the model yourself, you can easily do so. The training code is available as a Jupyter notebook, which you can run in Google Colab with a single click:
 
+•	Training Code: If you want to train the model yourself, you can easily do so. The training code is available as a Jupyter notebook, which you can run in Google Colab with a single click:
 <a href="https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/multi_label_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-Inference Code: If you have survey data in CSV or Excel format and would like to classify them, our NLU tool is at your service for efficient classification. Run the inference code as a Jupyter notebook in Google Colab with just one click:
-
+•	Inference Code: If you have survey data in CSV or Excel format and would like to classify them, our NLU tool is at your service for efficient classification. Run the inference code as a Jupyter notebook in Google Colab with just one click:
 <a href="https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/Inference_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
