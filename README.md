@@ -3,16 +3,6 @@
 <a href="https://whiteribbonalliance.org"><span align="left">🌐 whiteribbonalliance.org</span></a>
 <a href="https://explore.whiteribbonalliance.org/en/healthwellbeing"><span align="left">🌐 explore.whiteribbonalliance.org/en/healthwellbeing</span></a>
 
-This repository contains the code you will need to train your own NLU on our data.
-
-You can run the training code as a Jupyter notebook in [Google Colab](https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/multi_label_classification.ipynb) with a single click: <a href="https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/multi_label_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-If you have survey data in CSV or Excel format and would like to classify them, you can utilize our Natural Language Understanding (NLU) tool for efficient classification. For a hassle-free experience, you can run the inference code as a Jupyter notebook directly in Google Colab with a single click:
-
-
-<a href="https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/Inference_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-
 
 •	Training Code: If you want to train the model yourself, you can easily do so. The training code is available as a Jupyter notebook, which you can run in Google Colab with a single click:
 <a href="https://colab.research.google.com/github/whiteribbonalliance/womenshealthandwellbeing_public/blob/main/multi_label_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
